@@ -1,1 +1,1 @@
-# learning-js
+Tutorial Followed: https://javascript.info/
